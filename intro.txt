@@ -1,6 +1,4 @@
 hello sir, 
-<<<<<<< HEAD
 my name is kishan gayakwad
-=======
 my name is kishan malhotra
->>>>>>> master
+
